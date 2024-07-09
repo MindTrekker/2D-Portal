@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Portal_Phys",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Portal_Phys",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
